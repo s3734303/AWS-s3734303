@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.178",
+        "aws/aws-sdk-php-laravel": "^3.6"
+    }
+}
